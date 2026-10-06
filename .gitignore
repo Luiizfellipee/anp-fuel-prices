@@ -14,3 +14,12 @@ files/*
 _versao_anterior/*
 candidaturas/*
 scripts/*
+
+# Instruções e ferramentas locais da trilha de estudos
+.agents/
+.claude/
+.vscode/
+AGENTS.md
+CLAUDE.md
+LEIA-ME.md
+docs/harness-design.md
